@@ -11,18 +11,16 @@ baseurl: '/jekyll-theme-chirpy'
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
 title: Mioscape Blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A Shitpost Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A Blog without any trackers.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'http://mioscape.cf'
@@ -77,7 +75,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://avatars.githubusercontent.com/u/43681888?s=400&u=941c0427c4da364abb07fbf9cae1c18b1440fffd&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
