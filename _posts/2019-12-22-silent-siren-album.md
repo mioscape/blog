@@ -22,6 +22,6 @@ _Silent Siren 3rd Album 発売決定 ! 「ラッキーガール」「BANG!BANG!B
 - AIMAI ME MINE
 - STRAWBERRY MOON  
   
-## Download  
+## _**Download**_  
 **Approximate Size: 375 MB**  
 Google Drive: [Download](https://drive.google.com/drive/folders/1KcJ_dhFoDBkyQ1eqmE_1QVA3COOyFhJs?usp=sharing)
